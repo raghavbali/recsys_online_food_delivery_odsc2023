@@ -11,6 +11,7 @@ Repository for ODSC West 2023 Session on Building Robust and Scalable Recommenda
 + Recommendation Systems
 + Overview of Data Science Workflow for RecSys
 + Architecture
-+ Delivery Hero Recommendations Dataset
++ [Delivery Hero Recommendations Dataset](https://dl.acm.org/doi/10.1145/3604915.3610242)
+    + [github](https://github.com/deliveryhero/dh-reco-dataset)
 
 <img src="./assets/TALK_Raghav Bali Vishal Natani.png">
