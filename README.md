@@ -12,3 +12,5 @@ Repository for ODSC West 2023 Session on Building Robust and Scalable Recommenda
 + Overview of Data Science Workflow for RecSys
 + Architecture
 + Delivery Hero Recommendations Dataset
+
+<img src="./assets/TALK_Raghav Bali Vishal Natani.png">
